@@ -1,6 +1,5 @@
-<p align="left">I'm Marcos Gustavo 🧑‍💻</p>
+# I'm Marcos Gustavo 🧑‍💻
 
-###
 
 <h2 align="left">Stats 📊</h2>
 
@@ -13,7 +12,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">I code with</p>
 
 ###
 
