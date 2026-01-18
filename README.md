@@ -28,6 +28,9 @@
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="ruby logo"  />
 </div>
 
 ###
