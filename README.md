@@ -36,6 +36,15 @@ Passionate about building scalable applications, clean architectures, and transf
 
 ---
 
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/marcos-mpereira/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 📈 GitHub Activity
 
 <p align="center">
@@ -44,13 +53,4 @@ Passionate about building scalable applications, clean architectures, and transf
 
 <p align="center">
   <em>Turning ideas into code.</em> 
-</p>
-
----
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/marcos-mpereira/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
