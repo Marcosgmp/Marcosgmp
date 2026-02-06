@@ -1,36 +1,56 @@
-# I'm Marcos Gustavo 🧑‍💻
+<h1 align="center">Marcos Gustavo • Software Developer</h1>
+
+<p align="center">
+  <em>Backend Developer • Computer Science Student • Linux enthusiast</em>
+</p>
+
+<p align="center">
+  <img 
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHg5Z2FpYzByenN2dDZzMTVveW9oM2Jtdjh4dXhtODRvOXN4MDgzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="450px" alt="coding animation" /> 
+</p>
 
 
-<h2 align="left">Stats 📊</h2>
+---
 
-###
+<p align="center">
+Passionate about building scalable applications, clean architectures, and transforming ideas into real-world software solutions.
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcosgmp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcosgmp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## Tech Stack & Skills 👨‍💻
 
-<p align="left">I code with</p>
+<p align="center">
+  <img src="https://skills-icons.vercel.app/api/icons?i=python,java,javascript,c,ruby,nodejs,spring,flask,fastapi,postgresql,mysql,linux,git" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="django logo"  />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="ruby logo"  />
-</div>
+## 🧠 About Me
 
-###
+🎓 Computer Science student  
+💻 Backend-focused developer  
+🧩 Experience with web applications and backend APIs  
+🚀 Focused on clean code, scalability, and performance  
+📚 Always learning and exploring new technologies
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcosgmp&theme=react-dark" />
+</p>
+
+<p align="center">
+  <em>Turning ideas into code.</em> 
+</p>
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/marcos-mpereira/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
